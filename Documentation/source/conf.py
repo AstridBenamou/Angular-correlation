@@ -12,7 +12,7 @@
 #
 import os
 import sys
-PATH_TO_LIB = os.path.join('..', '..','Lib and notebooks')
+PATH_TO_LIB = os.path.join('.')
 sys.path.insert(0, os.path.abspath(PATH_TO_LIB))
 
 
