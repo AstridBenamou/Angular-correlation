@@ -2,5 +2,8 @@
 *.png
 *.pyc
 *.pdf
-Documentation/*
-Documentation/build/html/index.html
+Documentation/build/
+Documentation/source/__pycache__/
+Lib and notebooks/res/
+Lib and notebooks/.ipynb_checkpoints/
+Lib and notebooks/xz0
