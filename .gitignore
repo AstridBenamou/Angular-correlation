@@ -1,0 +1,6 @@
+*.DS_Store
+*.png
+*.pyc
+*.pdf
+Documentation/*
+Documentation/build/html/index.html
