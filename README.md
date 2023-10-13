@@ -1,2 +1,4 @@
 # Angular-correlation
 
+We show how to best characterise astronomical datasets. Correlation function is often used to characterise the distribution functions. We first use ”mock” datsets, that we know the distribution of. This allows us to see if the correlation function is a good estimator of the statistical properties of a distribution. We study various artificial shortcomings, e.g. the size of the sample, the box size, the shot noise etc. We then run our estimator on the real observation data from high redshift quasars. Study angular correlation functions etc.
+We study the position of quasars given by spherical coordinates aroung the observation point. To evaluate the distribution of their locations the angular correlation function is an efficient tool that we will be using in this article.
